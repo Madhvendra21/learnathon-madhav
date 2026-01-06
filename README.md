@@ -56,9 +56,8 @@ k8s/cluster/kind-cluster-config.yaml
 
 Create the cluster using:
 
-```bash
-kind create cluster --config k8s/cluster/kind-cluster-config.yaml
 
+kind create cluster --config k8s/cluster/kind-cluster-config.yaml
 
 Verify the cluster:
 
