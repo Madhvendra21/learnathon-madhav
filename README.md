@@ -1,7 +1,8 @@
 # learnathon-madhav
 Simple microservice boilerplate.
 
-#Description
+# Description
+
 Pinger is an app which continuously calls any URL, to check if it's up or not. It also records the latency, response code, size etc.
 
 This app has 3 services:
